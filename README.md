@@ -1,4 +1,3 @@
-
 # Hi I'm Betim 👋
 
 
@@ -18,4 +17,4 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/betim-
 
 ![enter image description here](https://r69.cooltext.com/rendered/cooltext404011208029094.png)
 
-[GG](https://github-readme-stats.vercel.app/api/top-langs/?username=betimthaqi&theme=blue-green)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betimthaqi&theme=blue-green)
