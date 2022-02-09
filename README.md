@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi I'm Betim 👋
 
-<!--
-**betimthaqi/betimthaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betim-tha%C3%A7i/)
+[![Website Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BetimThaqi4)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/betimthaqi/)
+[![Instagram Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/betimthaqi/)
 
-Here are some ideas to get you started:
+Welcome to my profile!
+:computer: Software developer with experience in building extensions for small and medium sized businesses using Microsoft Dynamics Business Central and Navision. 
+:cactus: Working for Cacttus ShA
+😄 Finishing my bachelor's degree in computer engineering. 
+:star2: Skilled in data science with ability to create dashboard, extract data from the web and other sources, data visualisation, data modeling etc.
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/betim-tha%C3%A7i/)! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![enter image description here](https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif)
+
+![enter image description here](https://r69.cooltext.com/rendered/cooltext404011208029094.png)
+
+[GG](https://github-readme-stats.vercel.app/api/top-langs/?username=%7Bbetimthaqi%7D&theme=blue-green)
