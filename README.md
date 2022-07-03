@@ -10,7 +10,7 @@
 Welcome to my profile! </br>
 :computer: Software developer with experience in building extensions for small and medium sized businesses using Microsoft Dynamics Business Central and Navision. </br>
 :cactus: Working for Cacttus ShA </br>
-😄 Finishing my bachelor's degree in computer engineering. </br>
+😄 Bachelor of Science in Computer Engineering </br>
 :star2: Skilled in data science with ability to create dashboard, extract data from the web and other sources, data visualization, data modeling etc.</br>
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/betim-tha%C3%A7i/)! 
 
